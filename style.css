@@ -393,7 +393,7 @@ button{
 button:hover, .nav-btn:hover{
   cursor: pointer;
 }
-a{
+a, a:hover, a:focus, a:visited{
   text-decoration: none;
   color:#A09FB1;
   font-weight: bold;
