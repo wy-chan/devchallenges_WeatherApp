@@ -86,6 +86,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 #### API:
 - [MetaWeather](https://www.metaweather.com/api/)
 
+#### NodeJS proxy:
+- [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
+
+
 ## Contact
 
 - GitHub [@wy-chan](https://github.com/wy-chan)
