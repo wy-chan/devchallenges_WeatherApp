@@ -37,7 +37,7 @@ class MyApp extends React.Component{
           NavSearch: false,
           data:{},
           unit: "C",
-          recentSearch:["London", "Barcelona", "Long Beach"],
+          recentSearch:["London", "Barcelona", "Long Beach"],//For examples only
           input:"",
           submit:"",
     };
